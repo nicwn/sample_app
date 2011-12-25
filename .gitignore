@@ -2,3 +2,10 @@
 db/*.sqlite3
 log/*.log
 tmp/
+*.log
+doc/
+*.swp
+*~
+.project
+.DS_Store
+
